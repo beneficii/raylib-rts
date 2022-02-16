@@ -2,7 +2,7 @@
 
 #include "helpers/draw.h"
 #include <iostream>
-#include "Managers/GameState.h";
+#include "Managers/GameState.h"
 
 Button::Button(Texture2D image, char* txt, Vector2 position, float scale, std::function<void()> action)
 {

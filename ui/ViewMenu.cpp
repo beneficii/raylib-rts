@@ -3,7 +3,7 @@
 #include "ViewPlay.h"
 #include "helpers/draw.h"
 #include <iostream>
-#include "Managers/GameState.h";
+#include "Managers/GameState.h"
 
 
 void MenuPlay()

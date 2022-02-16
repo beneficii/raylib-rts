@@ -1,8 +1,8 @@
 #include "UnitBehaviour.h"
 
-#include "raylib.h";
-#include "raymath.h";
-#include "world/Unit.h";
+#include "raylib.h"
+#include "raymath.h"
+#include "world/Unit.h"
 #include "data/GameData.h"
 #include "world/Bullet.h"
 #include "Managers/GameState.h"

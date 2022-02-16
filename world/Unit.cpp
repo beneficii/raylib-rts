@@ -2,8 +2,8 @@
 
 #include "raymath.h"
 #include "helpers/draw.h"
-#include "data/GameData.h";
-#include "Managers/GameState.h";
+#include "data/GameData.h"
+#include "Managers/GameState.h"
 #include "data/UnitBehaviour.h"
 #include "Constants.h"
 
