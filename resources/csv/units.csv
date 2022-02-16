@@ -1,0 +1,12 @@
+id|name|description|damage|rate|range|hp|moveSpeed|price|resource|behaviour|tag|sprite
+warrior1|Warrior|Average warrior|1|1|1|4|1|5|gold|find_target|guard|blue_warrior
+warrior2|Paladin|Strong warrior|4|1|1|20|1|40|mana|find_target|guard|blue_warrior
+warrior3|Dark Warrior|Very strong warrior|4|1|1|20|1|20|gold|find_target|guard|blue_warrior
+worker|Worker|Gathers resources|2|10|1|2|1.5|5|gold|find_resource gold|guard|blue_worker
+mage|Mage|Generates mana|1|2|1|2|1|5|gold|find_resource mana|guard|blue_priest
+tower|Tower|Static defense|2|1|5|10|0|20|gold|find_target||blue_tower
+monster1|Dark Minion|Enemy warrior|1|1|1|4|1|5|gold|find_target||red_warrior
+monster2|Dark Warrior|Very strong warrior|4|1|1|20|1|20|gold|find_target||red_giant
+monster3|Doom Warrior|The Doom warrior|10|0.1|2|10|2|200|gold|find_target||red_giant_warrior
+boss|Evil King|Vey evil||0.5|2|100|0|1000|mana|find_target||red_king
+castle|Castle|Your castle that you must protect|1|2|0|50|0|1000|gold|generate people||blue_castle

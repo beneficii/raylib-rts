@@ -1,0 +1,3 @@
+id|name|description|sprite|price|resource|action
+charge|Charge!!!|Your units go into an attack|red_king|0|gold|charge
+populate|Summon Villagers|Your population magically grows|populate|10|mana|add 10 people

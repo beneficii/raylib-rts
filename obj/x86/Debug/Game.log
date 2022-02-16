@@ -1,0 +1,24 @@
+﻿  draw.cpp
+D:\workspace\raylib-rts\Game\helpers\draw.cpp(13,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\workspace\raylib-rts\Game\helpers\draw.cpp(13,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\workspace\raylib-rts\Game\helpers\draw.cpp(24,48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\workspace\raylib-rts\Game\helpers\draw.cpp(25,49): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\workspace\raylib-rts\Game\helpers\draw.cpp(33,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\workspace\raylib-rts\Game\helpers\draw.cpp(33,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Button.cpp
+D:\workspace\raylib-rts\Game\UI\Button.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\workspace\raylib-rts\Game\world\Unit.h(7,15): warning C4099: 'UnitData': type name first seen using 'struct' now seen using 'class'
+D:\workspace\raylib-rts\Game\data\GameData.h(33): message : see declaration of 'UnitData'
+D:\workspace\raylib-rts\Game\UI\Button.cpp(41,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Bullet.cpp
+D:\workspace\raylib-rts\Game\data\GameData.h(33,17): warning C4099: 'UnitData': type name first seen using 'class' now seen using 'struct'
+D:\workspace\raylib-rts\Game\data\GameData.h(33): message : see declaration of 'UnitData'
+  Unit.cpp
+D:\workspace\raylib-rts\Game\world\Unit.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\workspace\raylib-rts\Game\data\GameData.h(33,17): warning C4099: 'UnitData': type name first seen using 'class' now seen using 'struct'
+D:\workspace\raylib-rts\Game\data\GameData.h(33): message : see declaration of 'UnitData'
+D:\workspace\raylib-rts\Game\world\Unit.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\workspace\raylib-rts\Game\world\Unit.cpp(76,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+D:\workspace\raylib-rts\Game\helpers\draw.cpp(88): warning C4715: 'ResourceColor': not all control paths return a value
+  Game.vcxproj -> D:\workspace\raylib-rts\bin\Debug\Game.exe

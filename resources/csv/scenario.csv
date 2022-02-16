@@ -1,0 +1,9 @@
+time|text|spell|summon
+10|first wave!||monster1
+20|second wave!||monster1; monster1; monster1; monster1
+25|A big one, hold on!||monster2
+30|We need to survive this!||monster1; monster1; monster1; monster1; monster1; monster1; monster1; monster1; monster2
+43|Attack!!!|charge|monster2; monster2; monster2
+47|Attack!!!|charge|
+51|Attack!!!|charge|
+65|It’s too late!!||monster3; monster3; monster3; monster3; monster3; monster3; monster3; monster3; monster3; monster3; monster3; monster3
